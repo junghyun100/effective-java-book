@@ -7,3 +7,4 @@
 |아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라     |[아이템3](https://local-radon-9e4.notion.site/3-private-1263e9f86f7480c9a9d4f54e63f5eb70?pvs=4) |
 |아이템 4. 인스턴스화를 막으려면 private 생성자를 사용하라        |[아이템4](https://local-radon-9e4.notion.site/4-private-1273e9f86f74802e9aa8ff857bc0fb9f?pvs=74) |
 |아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라     |[아이템5](https://www.notion.so/5-12b3e9f86f7480d39beac9c7188bab92) |
+|아이템 6. 불필요한 객체 생성을 피하라                           |[아이템6](https://local-radon-9e4.notion.site/6-1303e9f86f7480d7b1e7f9a59aa097d0?pvs=4) |
