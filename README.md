@@ -9,3 +9,4 @@
 |아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라     |[아이템5](https://www.notion.so/5-12b3e9f86f7480d39beac9c7188bab92) |
 |아이템 6. 불필요한 객체 생성을 피하라                           |[아이템6](https://local-radon-9e4.notion.site/6-1303e9f86f7480d7b1e7f9a59aa097d0?pvs=4) |
 |아이템 7. 다 쓴 객체 참조를 제거하라                           |[아이템7](https://local-radon-9e4.notion.site/7-1383e9f86f74805ebc2cd9456468a03f?pvs=4) |
+|아이템 8. finalizer와 cleaner 사용을 피하라                    |[아이템8](https://local-radon-9e4.notion.site/8-finalizer-cleaner-1483e9f86f7480159d2afcdd917c80a1?pvs=4) |
